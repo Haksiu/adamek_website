@@ -32,7 +32,7 @@ const Main = () => {
         <div className="md:grid md:grid-cols-2 md:text-left gap-3 flex justify-start items-center flex-col">
           <Link
             href="https://twitch.tv/adamekl"
-            className="text-[#9146FF]"
+            className="text-[#9146FF] hover:scale-[1.1] transition-all duration-[350ms] ease-in-out"
             target="_blank"
             rel="noreferrer"
           >
@@ -51,7 +51,7 @@ const Main = () => {
           </Link>
           <Link
             href="https://www.youtube.com/c/AdameKl"
-            className="text-[#FF0000]"
+            className="text-[#FF0000] hover:scale-[1.1] transition-all duration-[350ms] ease-in-out"
             target="_blank"
             rel="noreferrer"
           >
@@ -68,7 +68,7 @@ const Main = () => {
           </Link>
           <Link
             href="https://www.tiktok.com/@rakawarte"
-            className="text-[#ff0050]"
+            className="text-[#ff0050] hover:scale-[1.1] transition-all duration-[350ms] ease-in-out"
             target="_blank"
             rel="noreferrer"
           >
@@ -85,7 +85,7 @@ const Main = () => {
           </Link>
           <Link
             href="https://www.tiktok.com/@adamek_shoty"
-            className="text-[#ff0050]"
+            className="text-[#ff0050] hover:scale-[1.1] transition-all duration-[350ms] ease-in-out"
             target="_blank"
             rel="noreferrer"
           >
@@ -102,7 +102,7 @@ const Main = () => {
           </Link>
           <Link
             href="https://www.instagram.com/adamekig/"
-            className="text-[#C13584]"
+            className="text-[#C13584] hover:scale-[1.1] transition-all duration-[350ms] ease-in-out"
             target="_blank"
             rel="noreferrer"
           >
@@ -119,7 +119,7 @@ const Main = () => {
           </Link>
           <Link
             href="https://www.youtube.com/c/AdameKVOD"
-            className="text-[#FF0000]"
+            className="text-[#FF0000] hover:scale-[1.1] transition-all duration-[350ms] ease-in-out"
             target="_blank"
             rel="noreferrer"
           >
@@ -136,7 +136,7 @@ const Main = () => {
           </Link>
           <Link
             href="https://onlyfans.com/ladamekl"
-            className="text-[#9146FF]"
+            className="text-[#9146FF] hover:scale-[1.1] transition-all duration-[350ms] ease-in-out"
             target="_blank"
             rel="noreferrer"
           >
@@ -153,7 +153,7 @@ const Main = () => {
           </Link>
           <Link
             href="https://discord.com/invite/U396kj8YvP"
-            className="text-[#9146FF]"
+            className="text-[#9146FF] hover:scale-[1.1] transition-all duration-[350ms] ease-in-out"
             target="_blank"
             rel="noreferrer"
           >
