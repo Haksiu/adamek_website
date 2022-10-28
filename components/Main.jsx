@@ -19,6 +19,7 @@ const Main = () => {
             width={250}
             height={250}
             className="hover:scale-[1.12] transition-all duration-[350ms] ease-in-out rounded-full overflow-hidden shadow-lg border-[6px] border-[#121212]"
+            alt="avatar"
           />
         </div>
         <div className="py-2 px-4 font-semibold tracking-wide">
