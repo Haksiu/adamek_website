@@ -48,7 +48,7 @@ const Main = () => {
               rel="noreferrer"
             />
             <span className="font-semibold">Twitch</span>{" "}
-            <span className="text-white">Adamka</span>
+            <span className="text-white">adamekl</span>
           </Link>
           <Link
             href="https://www.youtube.com/c/AdameKl"
@@ -65,7 +65,7 @@ const Main = () => {
               title="youtube adamka"
             />
             <span className="font-semibold">YouTube</span>{" "}
-            <span className="text-white">Adamka</span>
+            <span className="text-white">AdameKl</span>
           </Link>
           <Link
             href="https://www.tiktok.com/@rakawarte"
@@ -99,7 +99,7 @@ const Main = () => {
               title="tiktok @adamek_shoty"
             />
             <span className="font-semibold">TikTok</span>{" "}
-            <span className="text-white">@TwitchShoty</span>
+            <span className="text-white">@adamek_shoty</span>
           </Link>
           <Link
             href="https://www.instagram.com/adamekig/"
@@ -116,7 +116,7 @@ const Main = () => {
               title="instagram adamka"
             />
             <span className="font-semibold">Instagram</span>{" "}
-            <span className="text-white">Adamka</span>
+            <span className="text-white">adamekig</span>
           </Link>
           <Link
             href="https://www.youtube.com/c/AdameKVOD"
@@ -133,7 +133,7 @@ const Main = () => {
               title="youtube VOD"
             />
             <span className="font-semibold">YouTube</span>{" "}
-            <span className="text-white">VOD Adamka</span>
+            <span className="text-white">AdameKVOD</span>
           </Link>
           <Link
             href="https://onlyfans.com/ladamekl"
@@ -150,7 +150,7 @@ const Main = () => {
               title="OnlyFans Adamek"
             />
             <span className="font-semibold">OnlyFans</span>{" "}
-            <span className="text-white">Adamka</span>
+            <span className="text-white">ladamekl</span>
           </Link>
           <Link
             href="https://discord.com/invite/U396kj8YvP"
@@ -167,7 +167,7 @@ const Main = () => {
               title="discord adamka"
             />
             <span className="font-semibold">Discord</span>{" "}
-            <span className="text-white">Adamka</span>
+            <span className="text-white">Autyzm Industries</span>
           </Link>
         </div>
       </div>
