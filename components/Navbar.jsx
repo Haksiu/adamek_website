@@ -7,7 +7,7 @@ const Navbar = () => {
       <div className="px-4 py-2">
         <ul className="flex justify-between items-center mb-[10px]">
           <li className="text-[25px] tracking-wide font-bold text-white hover:text-gray-300/80 transition-all duration-500 ease-in-out">
-            <Link href="/">AdameK.tv</Link>
+            <Link href="/">AdameK</Link>
           </li>
         </ul>
       </div>
