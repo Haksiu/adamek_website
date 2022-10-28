@@ -60,8 +60,8 @@ const Main = () => {
               width={32}
               height={32}
               className="inline mx-2"
-              alt="twitch adamka"
-              title="twitch adamka"
+              alt="youtube adamka"
+              title="youtube adamka"
             />
             <span className="font-semibold">YouTube</span>{" "}
             <span className="text-white">Adamka</span>
@@ -77,8 +77,8 @@ const Main = () => {
               width={32}
               height={32}
               className="inline mx-2"
-              alt="twitch adamka"
-              title="twitch adamka"
+              alt="tiktok @rakawarte"
+              title="tiktok @rakawarte"
             />
             <span className="font-semibold">TikTok</span>{" "}
             <span className="text-white">@RakaWarte</span>
@@ -94,8 +94,8 @@ const Main = () => {
               width={32}
               height={32}
               className="inline mx-2"
-              alt="twitch adamka"
-              title="twitch adamka"
+              alt="tiktok @adamek_shoty"
+              title="tiktok @adamek_shoty"
             />
             <span className="font-semibold">TikTok</span>{" "}
             <span className="text-white">@TwitchShoty</span>
@@ -107,12 +107,12 @@ const Main = () => {
             rel="noreferrer"
           >
             <Image
-              src="/assets/Instagram_Adamek.png"
+              src="/assets/Instagram_AdameK.png"
               width={30}
               height={30}
               className="inline mx-2"
-              alt="twitch adamka"
-              title="twitch adamka"
+              alt="Instagram adamka"
+              title="instagram adamka"
             />
             <span className="font-semibold">Instagram</span>{" "}
             <span className="text-white">Adamka</span>
@@ -128,8 +128,8 @@ const Main = () => {
               width={32}
               height={32}
               className="inline mx-2"
-              alt="twitch adamka"
-              title="twitch adamka"
+              alt="youtube VOD"
+              title="youtube VOD"
             />
             <span className="font-semibold">YouTube</span>{" "}
             <span className="text-white">VOD Adamka</span>
@@ -145,8 +145,8 @@ const Main = () => {
               width={32}
               height={32}
               className="inline mx-2"
-              alt="twitch adamka"
-              title="twitch adamka"
+              alt="OnlyFans Adamek"
+              title="OnlyFans Adamek"
             />
             <span className="font-semibold">OnlyFans</span>{" "}
             <span className="text-white">Adamka</span>
@@ -162,8 +162,8 @@ const Main = () => {
               width={32}
               height={32}
               className="inline mx-2"
-              alt="twitch adamka"
-              title="twitch adamka"
+              alt="discord adamka"
+              title="discord adamka"
             />
             <span className="font-semibold">Discord</span>{" "}
             <span className="text-white">Adamka</span>
